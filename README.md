@@ -204,6 +204,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
 
+
 ## Supported by BrowserStack
 Thanks to [BrowserStack](https://browserstack.com/) for their support of this open-source project.
 
